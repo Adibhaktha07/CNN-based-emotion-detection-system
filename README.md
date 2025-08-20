@@ -85,4 +85,3 @@ Add your own GIF or image demo here (optional)
 
 🙋‍♂️ Author
 Adithya Bhaktha
-GitHub • LinkedIn
