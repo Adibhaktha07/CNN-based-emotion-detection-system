@@ -27,9 +27,13 @@ This project is a real-time facial emotion detection system using a Convolutiona
 emotion-detection/
 │
 ├── haarcascade_frontalface_default.xml # Haar Cascade for face detection
+
 ├── model.h5 # Pre-trained CNN model
+
 ├── emotion_detector.py # Main Python script
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project description
 
 ## 🚀 Getting Started
