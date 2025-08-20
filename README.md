@@ -25,6 +25,7 @@ This project is a real-time facial emotion detection system using a Convolutiona
 
 ## 📂 Folder Structure
 emotion-detection/
+
 │
 ├── haarcascade_frontalface_default.xml # Haar Cascade for face detection
 
